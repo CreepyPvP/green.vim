@@ -26,6 +26,8 @@ hi! link PreProc Keyword
 hi! link Special Normal
 hi! link NonText Normal
 hi! link Title Normal
+hi! link @conditional Keyword
+hi! link @repeat Keyword
 
 
 
