@@ -11,7 +11,7 @@ hi Constant cterm=NONE gui=NONE ctermfg=NONE guifg=#80F0E0 ctermbg=NONE guibg=NO
 hi String cterm=NONE gui=NONE ctermfg=NONE guifg=#0BB0A0 ctermbg=NONE guibg=NONE
 hi Type cterm=NONE gui=NONE ctermfg=NONE guifg=#69B77B ctermbg=NONE guibg=#062626
 hi Visual cterm=NONE gui=NONE ctermfg=NONE guifg=#D0C0A0 ctermbg=NONE guibg=#0010FF
-hi StatusLine cterm=bold gui=bold,reverse guifg=#D8B488
+hi StatusLine cterm=bold,reverse gui=bold,reverse guifg=#D8B488 guibg=#062626
 hi StatusLineNC cterm=bold,reverse gui=bold,reverse guifg=white
 hi Keyword guifg=white
 hi LineNr cterm=NONE gui=NONE ctermfg=NONE guifg=#6A5A3A ctermbg=NONE guibg=#011F23
